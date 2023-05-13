@@ -1,0 +1,65 @@
+{
+  "laptops": [
+    {
+      "brand": "HP",
+      "model": "Envy x360",
+      "processor": "Intel Core i7-1165G7",
+      "ram": "16GB DDR4",
+      "storage": "512GB NVMe SSD",
+      "graphics": "NVIDIA GeForce MX450",
+      "display": "13.3-inch FHD touchscreen",
+      "operating_system": "Windows 10 Home",
+      "price": 1299.99
+    },
+    {
+      "brand": "Dell",
+      "model": "XPS 15",
+      "processor": "Intel Core i9-11900H",
+      "ram": "32GB DDR4",
+      "storage": "1TB PCIe SSD",
+      "graphics": "NVIDIA GeForce RTX 3050 Ti",
+      "display": "15.6-inch 4K UHD OLED",
+      "operating_system": "Windows 11 Home",
+      "price": 2499.99
+    },
+    {
+      "brand": "Apple",
+      "model": "MacBook Pro",
+      "processor": "Apple M1 Pro chip",
+      "ram": "16GB unified memory",
+      "storage": "512GB SSD",
+      "graphics": "Apple M1 Pro GPU",
+      "display": "14.2-inch Retina display",
+      "operating_system": "macOS Monterey",
+      "price": 1999.99
+    },
+    {
+      "brand": "Lenovo",
+      "model": "ThinkPad X1 Carbon",
+      "processor": "Intel Core i7-1185G7",
+      "ram": "16GB LPDDR4x",
+      "storage": "1TB NVMe SSD",
+      "graphics": "Intel Iris Xe Graphics",
+      "display": "14-inch 2K Dolby Vision",
+      "operating_system": "Windows 10 Pro",
+      "price": 1699.99
+    },
+    {
+      "brand": "Asus",
+      "model": "ZenBook Duo",
+      "processor": "Intel Core i7-1165G7",
+      "ram": "16GB LPDDR4x",
+      "storage": "512GB PCIe SSD",
+      "graphics": "NVIDIA GeForce MX450",
+      "display": "14-inch FHD touchscreen",
+      "operating_system": "Windows 11 Home",
+      "price": 1499.99
+    }
+  ]
+}
+
+
+
+
+
+

@@ -1,0 +1,71 @@
+<laptops>
+    <laptop>
+        <ram>32GB DDR4</ram>
+        <storage>1TB PCIe SSD</storage>
+        <graphics>NVIDIA GeForce RTX 3050 Ti</graphics>
+        <display>15.6-inch 4K OLED</display>
+        <operating_system>Windows 11 Pro</operating_system>
+        <price>2399.99</price>
+        <weight>4.4 lbs</weight>
+        <color>Silver</color>
+        <bluetooth>true</bluetooth>
+        <brand>Dell</brand>
+        <model>XPS 15</model>
+        <processor>Intel Core i9</processor>
+    </laptop>
+    <laptop>
+        <ram>16GB LPDDR4</ram>
+        <storage>512GB PCIe NVMe SSD</storage>
+        <graphics>Intel Iris Xe Graphics</graphics>
+        <display>13.3-inch FHD touch</display>
+        <operating_system>Windows 11 Home</operating_system>
+        <price>1499.99</price>
+        <color>Dark Ash Silver</color>
+        <wifi>true</wifi>
+        <brand>HP</brand>
+        <model>Spectre x360</model>
+        <processor>Intel Core i7</processor>
+    </laptop>
+    <laptop>
+        <ram>8GB LPDDR3</ram>
+        <storage>256GB PCIe SSD</storage>
+        <graphics>Intel UHD Graphics</graphics>
+        <display>14-inch FHD</display>
+        <operating_system>Windows 10 Pro</operating_system>
+        <price>1299.99</price>
+        <weight>2.49 lbs</weight>
+        <ethernet>true</ethernet>
+        <brand>Lenovo</brand>
+        <model>ThinkPad X1 Carbon</model>
+        <processor>Intel Core i5</processor>
+    </laptop>
+    <laptop>
+        <ram>16GB unified memory</ram>
+        <storage>512GB SSD</storage>
+        <graphics>Apple M1 Pro 8-core GPU</graphics>
+        <display>16-inch Retina display</display>
+        <operating_system>macOS Monterey</operating_system>
+        <price>2199.99</price>
+        <color>Space Gray</color>
+        <touch_bar>true</touch_bar>
+        <touch_id>true</touch_id>
+        <brand>Apple</brand>
+        <model>MacBook Pro</model>
+        <processor>Apple M1 Pro</processor>
+    </laptop>
+    <laptop>
+        <ram>16GB LPDDR4</ram>
+        <storage>1TB PCIe SSD</storage>
+        <graphics>Intel Iris Xe Graphics</graphics>
+        <display>14-inch FHD IPS</display>
+        <operating_system>Windows 11 Home</operating_system>
+        <price>1299.99</price>
+        <color>Charcoal Blue</color>
+        <fingerprint_reader>true</fingerprint_reader>
+        <brand>Acer</brand>
+        <model>Swift 5</model>
+        <processor>Intel Core i7</processor>
+    </laptop>
+</laptops>
+
+

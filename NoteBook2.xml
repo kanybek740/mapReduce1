@@ -1,0 +1,69 @@
+<laptops>
+    <laptop>
+        <ram>32GB LPDDR4x</ram>
+        <storage>512GB NVMe SSD</storage>
+        <graphics>NVIDIA GeForce GTX 1650</graphics>
+        <display>13.5-inch PixelSense touchscreen</display>
+        <operating_system>Windows 10 Pro</operating_system>
+        <price>2599.99</price>
+        <color>Platinum</color>
+        <detachable_screen>true</detachable_screen>
+        <brand>Microsoft</brand>
+        <model>Surface Book 3</model>
+        <processor>Intel Core i7</processor>
+    </laptop>
+    <laptop>
+        <ram>24GB DDR4</ram>
+        <storage>1TB PCIe NVMe SSD</storage>
+        <graphics>NVIDIA GeForce RTX 3060</graphics>
+        <display>14-inch QHD</display>
+        <operating_system>Windows 10 Home</operating_system>
+        <price>1999.99</price>
+        <color>Eclipse Gray</color>
+        <refresh_rate>120Hz</refresh_rate>
+        <brand>Asus</brand>
+        <model>ROG Zephyrus G14</model>
+        <processor>AMD Ryzen 9</processor>
+    </laptop>
+    <laptop>
+        <ram>16GB DDR4</ram>
+        <storage>512GB PCIe NVMe SSD</storage>
+        <graphics>AMD Radeon Graphics</graphics>
+        <display>15.6-inch FHD touch</display>
+        <operating_system>Windows 11 Home</operating_system>
+        <price>1399.99</price>
+        <color>Nightfall Black</color>
+        <convertible>true</convertible>
+        <brand>HP</brand>
+        <model>Envy x360</model>
+        <processor>AMD Ryzen 7</processor>
+    </laptop>
+    <laptop>
+        <ram>8GB DDR4</ram>
+        <storage>256GB PCIe NVMe SSD</storage>
+        <graphics>Intel Iris Xe Graphics</graphics>
+        <display>13.3-inch FHD</display>
+        <operating_system>Windows 10 Home</operating_system>
+        <price>1099.99</price>
+        <color>Frost White</color>
+        <fingerprint_reader>true</fingerprint_reader>
+        <brand>Dell</brand>
+        <model>XPS 13</model>
+        <processor>Intel Core i5</processor>
+    </laptop>
+    <laptop>
+        <ram>16GB LPDDR3</ram>
+        <storage>512GB PCIe NVMe SSD</storage>
+        <graphics>Intel UHD Graphics</graphics>
+        <display>14-inch WQHD</display>
+        <operating_system>Windows 11 Pro</operating_system>
+        <price>1599.99</price>
+        <color>Black</color>
+        <fingerprint_reader>true</fingerprint_reader>
+        <brand>Lenovo</brand>
+        <model>ThinkPad X1 Carbon</model>
+        <processor>Intel Core i7</processor>
+    </laptop>
+</laptops>
+
+

@@ -1,0 +1,7 @@
+brand,model,processor,storage,display,ram,price,color
+Lenovo,ThinkPad X1 Carbon,Intel Core i7,512GB PCIe NVMe SSD,14-inch WQHD,16GB LPDDR3,1599.99,Black,
+null,null,null,null,null,null,null,null,
+Dell,XPS 13,Intel Core i5,256GB PCIe NVMe SSD,13.3-inch FHD,8GB DDR4,1099.99,Frost White,
+HP,Envy x360,AMD Ryzen 7,512GB PCIe NVMe SSD,15.6-inch FHD touch,16GB DDR4,1399.99,Nightfall Black,
+Microsoft,Surface Book 3,Intel Core i7,512GB NVMe SSD,13.5-inch PixelSense touchscreen,32GB LPDDR4x,2599.99,Platinum,
+Asus,ROG Zephyrus G14,AMD Ryzen 9,1TB PCIe NVMe SSD,14-inch QHD,24GB DDR4,1999.99,Eclipse Gray,

@@ -1,0 +1,65 @@
+{
+  "laptops": [
+    {
+      "brand": "Acer",
+      "model": "Swift 5",
+      "processor": "Intel Core i7-1165G7",
+      "ram": "16GB LPDDR4x",
+      "storage": "1TB NVMe SSD",
+      "graphics": "Intel Iris Xe Graphics",
+      "display": "14-inch FHD touchscreen",
+      "operating_system": "Windows 10 Home",
+      "price": 1099.99
+    },
+    {
+      "brand": "Microsoft",
+      "model": "Surface Laptop 4",
+      "processor": "Intel Core i5-1135G7",
+      "ram": "8GB LPDDR4x",
+      "storage": "256GB NVMe SSD",
+      "graphics": "Intel Iris Xe Graphics",
+      "display": "13.5-inch PixelSense touchscreen",
+      "operating_system": "Windows 11 Home",
+      "price": 999.99
+    },
+    {
+      "brand": "Razer",
+      "model": "Blade 15",
+      "processor": "Intel Core i7-11800H",
+      "ram": "32GB DDR4",
+      "storage": "1TB PCIe SSD",
+      "graphics": "NVIDIA GeForce RTX 3070",
+      "display": "15.6-inch QHD OLED",
+      "operating_system": "Windows 10 Home",
+      "price": 2599.99
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy Book Pro 360",
+      "processor": "Intel Core i7-1165G7",
+      "ram": "16GB LPDDR4x",
+      "storage": "512GB NVMe SSD",
+      "graphics": "Intel Iris Xe Graphics",
+      "display": "13.3-inch FHD AMOLED touchscreen",
+      "operating_system": "Windows 10 Home",
+      "price": 1399.99
+    },
+    {
+      "brand": "Google",
+      "model": "Pixelbook Go",
+      "processor": "Intel Core i5-8220Y",
+      "ram": "8GB DDR4",
+      "storage": "128GB NVMe SSD",
+      "graphics": "Intel UHD Graphics 615",
+      "display": "13.3-inch FHD touchscreen",
+      "operating_system": "Chrome OS",
+      "price": 649.99
+    }
+  ]
+}
+
+
+
+
+
+
